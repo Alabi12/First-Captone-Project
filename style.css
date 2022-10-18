@@ -330,13 +330,13 @@ img {
 .footer {
   padding: 1rem;
   align-items: center;
-  gap: 1rem;
+  gap: 2rem;
   justify-content: center;
   flex-wrap: wrap;
 }
 
 .footer p {
-  font-size: 0.5rem;
+  font-size: 0.7rem;
 }
 
 /* about page styles */
@@ -479,14 +479,14 @@ img {
   }
 
   .sec-nav__item:last-child {
-    margin-right: 2rem;
+    margin-right: 10rem;
   }
 
-  .sec-nav__list li {
+  .sec-nav__list a {
     color: var(--white);
   }
 
-  .sec-nav__link {
+  .sec-nav {
     color: var(--color-white);
   }
 
