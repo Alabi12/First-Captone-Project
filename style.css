@@ -60,6 +60,7 @@ img {
 .flex-column {
   display: flex;
   flex-direction: column;
+
 }
 
 .sec-nav__list {
@@ -453,11 +454,12 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
   color: var(--white);
-  background: linear-gradient(
-    to right,
-    rgba(255, 0, 0, 0.7),
-    rgba(252, 0, 0, 0.7)
-  );
+  background:
+    linear-gradient(
+      to right,
+      rgba(255, 0, 0, 0.7),
+      rgba(252, 0, 0, 0.7)
+    );
 }
 
 @media only screen and (min-width: 768px) {
