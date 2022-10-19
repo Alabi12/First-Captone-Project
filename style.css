@@ -658,4 +658,18 @@ img {
     position: relative;
     text-align: center;
   }
+
+  .footer {
+    padding: 2rem;
+    align-items: center;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #373a41;
+  }
+
+  .footer p {
+    font-size: 0.7rem;
+    color: var(--white);
+  }
 }
