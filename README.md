@@ -25,7 +25,7 @@ This is a project acknowledging and affirming that I have properly understood ev
 - CSS
 - JAVASCRIPT
 
-Click [here] to watch a walk-through description, given by me.
+Click [here] [https://alabi12.github.io/First-Captone-Project/] to watch a walk-through description, given by me.
 
 ## Additional Tools
 
