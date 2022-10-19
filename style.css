@@ -60,7 +60,6 @@ img {
 .flex-column {
   display: flex;
   flex-direction: column;
-
 }
 
 .sec-nav__list {
