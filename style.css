@@ -651,4 +651,11 @@ img {
     margin-top: 2rem;
     scale: 2;
   }
+
+  .last-summit__image-wrapper {
+    width: 30vw;
+    height: 40vh;
+    position: relative;
+    text-align: center;
+  }
 }
