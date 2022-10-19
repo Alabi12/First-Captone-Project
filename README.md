@@ -1,17 +1,5 @@
 # First-Captone-Project
 
-# IT Audit
-
-This is a project acknowledging and affirming that I have properly understood everything learnt so far from the first module.
-
-- Here is the page preview
-
-> |     | Mobile version                                  | Desktop version                                  |     |
-> | --- | ----------------------------------------------- | ------------------------------------------------ | --- |
-> |     | ![Screenshot1](./images/screenshots/mobile.png) | ![Screenshot2](./images/screenshots/desktop.png) |
-
-This project is to put to test the understanding of individual student on what they've studied so far from the curriculum's module 1.
-
 > Learning objectives
 
 - I Used semantic HTML tags.
