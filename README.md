@@ -26,7 +26,7 @@ This is a project acknowledging and affirming that I have properly understood ev
 - CSS
 - JAVASCRIPT
 
-Click [here] [https://loom.com/share/f8bb0307b6ee457b8dc2c05882d193e5] to watch a walk-through description, given by me.
+Click [here] [https://loom.com/share/520ce9884ff645f480c53c1a2a98f31b] to watch a walk-through description, given by me.
 
 ## Additional Tools
 
@@ -37,7 +37,7 @@ Click [here] [https://loom.com/share/f8bb0307b6ee457b8dc2c05882d193e5] to watch 
 
 ## Live Demo
 
-[Here] [https://loom.com/share/f8bb0307b6ee457b8dc2c05882d193e5] [https://drive.google.com/file/d/1GOQo_9m-o9jGKPHQuGmEziOen_En5Zgu/view?usp=sharing]is the live demo.
+[Here] [https://alabi12.github.io/First-Captone-Project/]is the live demo.
 
 ## Getting Started
 
