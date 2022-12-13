@@ -37,7 +37,7 @@ Click [here] [https://loom.com/share/520ce9884ff645f480c53c1a2a98f31b] to watch 
 
 ## Live Demo
 
-[Here] [https://alabi12.github.io/First-Captone-Project/]is the live demo.
+[Here] [https://alabi12.github.io/First-Captone-Project/] is the live demo.
 
 ## Getting Started
 
